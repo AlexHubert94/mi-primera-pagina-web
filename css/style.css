@@ -216,6 +216,57 @@ body {
     font-size: 2em;
 }
 
+
+#mi {
+    /*font-size: 4em;*/
+    /*display: block;*/
+    /*line-height: 50px;*/
+    /*border-bottom: 10px solid white;*/
+    /*padding: 100px 100px 0px 0px;*/
+    /*margin-left: 20px;*/
+    animation: mi-top 1.2s;
+}
+
+#primera {
+    /*font-size: 1.5em;*/
+    /*line-height: 220px;*/
+    margin: 10px 0;
+    animation: primera-left 1.2s;
+}
+
+#pagina-web {
+    font-size: 1.2em;
+    /*margin: 20px;*/
+    animation: pagina-web-right 1.2s;
+}
+
+@keyframes mi-top {
+    from {
+        transform: translateY(-200px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes primera-left {
+    from {
+        transform: translateX(-500px);
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
+
+@keyframes pagina-web-right {
+    from {
+        transform: translateX(500px);
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
+
 #side-2 {
     display: flex;
     justify-content: center;
@@ -272,3 +323,6 @@ body {
     user-select: none;
 }
 
+#button:active {
+    box-shadow: none;
+}
