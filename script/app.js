@@ -16,5 +16,4 @@ button.addEventListener("click", function (e) {
     quote.innerText = `"${quotes[numberRandom].text}"`;
     autor.innerText = `- ${quotes[numberRandom].autor} -`;
     side_2.style.backgroundColor = colorPastel[numberRandom];
-    //side_2.style.opacity = 0.9;
 });
