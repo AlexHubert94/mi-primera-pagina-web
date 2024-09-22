@@ -223,6 +223,7 @@ body {
         width: var(--width-side-2);
         height: 100%;
         z-index: 10;
+        border-radius: 20px 0 0 20px;
     }
 
     .side-2__card {
