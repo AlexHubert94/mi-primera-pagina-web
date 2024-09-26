@@ -6,13 +6,9 @@ obtener una cita aleatoria al precionar el boton *"nueva cita"* y mostrarla en l
 con un color aleatorio de los 10 establecidos, como se puede observar en las siguientes
 imagenes para **MOBILE** y **DESKTOP**.
 
-## *WEB MOBILE*
-<img src="imagenes/mobile-version.jpg" height ="450px" style="display: inline">
-<img src="imagenes/mobile-version2.jpg" height="450px" style="display: inline">
-<img src="imagenes/mobile-version3.jpg" height="450px" style="display: inline">
-<img src="imagenes/mobile-version6.jpg" height="450px" style="display: inline">
-
 ## *WEB DESKTOP* 
 <img src="imagenes/desktop-version.png" width="100%">
 
-
+## *WEB MOBILE*
+<img src="imagenes/mobile-version.jpg"  style="display: inline; width: 200px">
+<img src="imagenes/mobile-version3.jpg"  style="display: inline; width: 200px">
