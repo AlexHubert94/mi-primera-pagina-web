@@ -7,10 +7,10 @@ con un color aleatorio de los 10 establecidos, como se puede observar en las sig
 imagenes para **MOBILE** y **DESKTOP**.
 
 ## *WEB MOBILE*
-<img src="imagenes/mobile-version.jpg" height ="450px">
-<img src="imagenes/mobile-version2.jpg" height="450px">
-<img src="imagenes/mobile-version3.jpg" height="450px">
-<img src="imagenes/mobile-version6.jpg" height="450px">
+<img src="imagenes/mobile-version.jpg" height ="450px" style="display: inline">
+<img src="imagenes/mobile-version2.jpg" height="450px" style="display: inline">
+<img src="imagenes/mobile-version3.jpg" height="450px" style="display: inline">
+<img src="imagenes/mobile-version6.jpg" height="450px" style="display: inline">
 
 ## *WEB DESKTOP* 
 <img src="imagenes/desktop-version.png" width="100%">
